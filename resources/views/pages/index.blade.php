@@ -1,4 +1,4 @@
 @extends('layouts.app')
 @section('content')
-<p>aaa</p>
+<p>this is a new journey</p>
 @endsection
